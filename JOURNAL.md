@@ -1,3 +1,4 @@
+---
 title: Gitar
 
 author: Froppii
@@ -5,6 +6,7 @@ author: Froppii
 description: An electric guitar assembled by me, basically
 
 created_at: 2025-05-27
+---
 #
 **26 May - Started a BOM + research**
 
