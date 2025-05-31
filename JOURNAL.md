@@ -5,7 +5,7 @@ author: Froppii
 
 description: An electric guitar assembled by me, basically
 
-created_at: 2025-05-27
+created_at: 2025-05-26
 ---
 #
 **26 May - Started a BOM + research**
