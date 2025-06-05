@@ -10,3 +10,4 @@ an electric guitar from scratch!!!!???? (kind of, not really)., but it is an ele
 
 ## BOM
 
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/528f7e689d48d1c0b88d43bc2a9641b10f651c56_1749104437374.jpeg" width="500">
