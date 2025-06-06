@@ -8,6 +8,8 @@ an electric guitar from scratch!!!!???? (kind of, not really)., but it is an ele
 
 ## Wiring Diagram
 
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a804e7dff5ee2aa6ec4682582c0dc923a5074afa_wiringdiagram.png" width="500">
+
 ## BOM
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/528f7e689d48d1c0b88d43bc2a9641b10f651c56_1749104437374.jpeg" width="500">
