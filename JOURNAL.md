@@ -31,3 +31,11 @@ I finished the cad which I kind of worked on for 2ish days but did not make a jo
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/886ce4f2d9699fafdd681f330ba158bf081463f7_image.png" width="500">
 
 **Time spent: 8 hours**
+#
+**6 June - wiring diagram!!**
+
+Made the wiring diagram... the original plan was a single coil neck + humbucker bridge, but i decided to just do two humbuckers and do some coil splitting :D. i am also adding a treble bleed !!
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a804e7dff5ee2aa6ec4682582c0dc923a5074afa_wiringdiagram.png" width="500">
+
+**Time spent: 5 hours**
