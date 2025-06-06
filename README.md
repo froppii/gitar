@@ -12,4 +12,36 @@ an electric guitar from scratch!!!!???? (kind of, not really)., but it is an ele
 
 ## BOM
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/528f7e689d48d1c0b88d43bc2a9641b10f651c56_1749104437374.jpeg" width="500">
+| Item | Cost |
+| --- | --- |
+| neck | $20 |
+| body | $20 |
+| solder | $2 |
+| bone nut | $2 |
+| 2 point bridge/tremolo | $10 |
+| tuning machines | $5 |
+| neck plate | $2 |
+| strap buttons | $4 |
+| output jack | $3 |
+| 3d printed pickguard
+| control knobs | $2 |
+| string trees | $4 |
+| grain filler | $3 |
+| primer | $3 |
+| color coat | $3 |
+| clear coat | $4 |
+| masking tape | $0 |
+| cloth wire | $3 |
+| potentiometers | $4 |
+| capacitors | $3 |
+| 5 way switch | $4 |
+| wires | $5 |
+| copper tape | $3 |
+| sandpaper | $8 |
+| strings | $2 |
+| polish | $7 |
+| tru oil | $4 |
+| pickups | $16 |
+| electrical tape | $2 |
+| cable ties | $1 |
+| total | $149 | 
