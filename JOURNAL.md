@@ -7,7 +7,7 @@ description: An electric guitar assembled by me, basically
 
 created_at: 2025-05-26
 
-total hours: 12 hours 30 mins
+total hours: 17 hours 30 mins
 ---
 #
 **26 May - Started a BOM + research**
