@@ -39,3 +39,11 @@ Made the wiring diagram... the original plan was a single coil neck + humbucker 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a804e7dff5ee2aa6ec4682582c0dc923a5074afa_wiringdiagram.png" width="500">
 
 **Time spent: 5 hours**
+#
+**28 June - parts arrived and started assembling**
+
+The neck and tuning pegs arrived in the same day and I attached them together! I dont own a drill so i spent quite a lot of time and hurt my palm while trying to create screwholes with a screwdriver, very happy with how it turned out though!
+
+**Time spent: 3 hours**
+
+
